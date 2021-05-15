@@ -1,0 +1,103 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 200;
+  text-align: center;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 30px;
+}
+p {
+  color: hsl(229, 6%, 66%);
+}
+
+.container-main p {
+  width: 80%;
+}
+
+.container-main h1 {
+  font-size: 24px;
+}
+
+.container-main {
+  margin-top: 30px;
+  line-height: 2;
+}
+
+.container-supervisor {
+  -webkit-box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #45d3d3;
+  box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #45d3d3;
+  background-color: hsl(0, 0%, 98%);
+  border-radius: 5px;
+  display: inline-block;
+  padding: 30px;
+  position: absolute;
+  padding: 25px;
+  text-align: left;
+  left: 7.5%;
+  top: 50%;
+  width: 27%;
+
+}
+
+.container-team-builder {
+  -webkit-box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #ea5353;
+  box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #ea5353;
+  background-color: hsl(0, 0%, 98%);
+  display: inline-block;
+  margin: auto;
+  padding: 25px;
+  text-align: left;
+  width: 27%;
+}
+
+.container-karma {
+  -webkit-box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #fcaf4a;
+  box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #fcaf4a;
+  background-color: hsl(0, 0%, 98%);
+  display: inline-block;
+  margin: 35px auto 0;
+  padding: 25px;
+  text-align: left;
+  width: 27%;
+}
+
+.container-calculator {
+  -webkit-box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #549ef2;
+  box-shadow: 0px 7px 7px -5px #A7B8FF, 0px 7px 7px -5px #9AAEFF, 0px -5px 3px -2px #549ef2;
+  background-color: hsl(0, 0%, 98%);
+  display: inline-block;
+  position: absolute;
+  padding: 25px;
+  width: 27%;
+  text-align: left;
+  top: 50%;
+  right: 7.5%;
+}
+
+.header-first {
+  color: hsl(234, 12%, 34%);
+  font-weight: 400;
+}
+
+.header-second {
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+
+.image-divs {
+  text-align: right;
+}
+
+.paragraph-top {
+  margin: auto;
+  width: 45%;
+}
+
+.top-container {
+  margin: 40px auto 0;
+  text-align: center;
+  width: 70%;
+}
